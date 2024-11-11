@@ -1,1 +1,1 @@
-# sing-box 配置文件
+#clash,sing-box 配置文件
