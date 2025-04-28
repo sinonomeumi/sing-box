@@ -15,7 +15,7 @@ const NEZHA_SERVER = process.env.NEZHA_SERVER || '';
 const NEZHA_PORT = process.env.NEZHA_PORT || '443';        // 端口为443时自动开启tls
 const NEZHA_KEY = process.env.NEZHA_KEY || '';             // 哪吒三个变量不全不运行
 const DOMAIN = process.env.DOMAIN || '';  //项目域名或已反代的域名，不带前缀，建议填已反代的域名
-const NAME = process.env.NAME || 'VN-webhostmost-GCP';
+const NAME = process.env.NAME || 'NL-荷兰-GCP';
 const port = process.env.PORT || 3000;
 
 // 创建HTTP路由
