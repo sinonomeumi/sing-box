@@ -9,13 +9,13 @@ const { exec, execSync } = require('child_process');
 const { WebSocket, createWebSocketStream } = require('ws');
 const logcb = (...args) => console.log.bind(this, ...args);
 const errcb = (...args) => console.error.bind(this, ...args);
-const UUID = process.env.UUID || 'c827826a-1b7e-45e9-8bef-3d223d86ad6e';
+const UUID = process.env.UUID || '8a6e7e56-81ee-40b8-93a6-42b822156e8f';
 const uuid = UUID.replace(/-/g, "");
 const NEZHA_SERVER = process.env.NEZHA_SERVER || '';
 const NEZHA_PORT = process.env.NEZHA_PORT || '443';        // 端口为443时自动开启tls
 const NEZHA_KEY = process.env.NEZHA_KEY || '';             // 哪吒三个变量不全不运行
-const DOMAIN = process.env.DOMAIN || 'waliu.waliu.dpdns.org';  //项目域名或已反代的域名，不带前缀，建议填已反代的域名
-const NAME = process.env.NAME || 'US-美国-GCP';
+const DOMAIN = process.env.DOMAIN || 'mxqwukvg.waliu.dpdns.org';  //项目域名或已反代的域名，不带前缀，建议填已反代的域名
+const NAME = process.env.NAME || 'NL-荷兰-GCP';
 const port = process.env.PORT || 4579;
 
 // 创建HTTP路由
