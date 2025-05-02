@@ -11,7 +11,7 @@
  # 视频
  http-response https://(d1skbu98kuldnf|dnt92ffcqr0xu).cloudfront.net/api/app/media/play script-path=https://raw.githubusercontent.com/chmg2025/js/refs/heads/main/mdsp.js, requires-body=true, timeout=60, tag=视频
  # 广告
- http-response https://(d1skbu98kuldnf|dnt92ffcqr0xu).cloudfront.net/(api/app/ping/config|api/app/media/v5/home) script-path=https://raw.githubusercontent.com/chmg2025/js/refs/heads/main/mdsp.js, requires-body=true, timeout=60, tag=广告
+ http-response https://(d1skbu98kuldnf|dnt92ffcqr0xu).cloudfront.net/(api/app/ping/config|api/app/media/v5/home) script-path=https://raw.githubusercontent.com/sinonomeumi/sing-box/refs/heads/main/r.js, requires-body=true, timeout=60, tag=广告
 
 
  [MITM]
