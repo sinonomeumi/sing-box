@@ -1,7 +1,7 @@
 addEventListener(
     "fetch",event => {
         let url=new URL(event.request.url);
-        url.hostname='ymtvoamwrveb.eu-central-1.clawcloudrun.com';
+        url.hostname='bjcqqhwhakml.eu-central-1.clawcloudrun.com';
         url.protocol='http';
      let request=new Request(url,event.request);
      event.respondWith(
