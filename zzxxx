@@ -17,19 +17,19 @@ const AUTO_ACCESS = process.env.AUTO_ACCESS || false;
 const YT_WARPOUT = process.env.YT_WARPOUT || false;   
 const FILE_PATH = process.env.FILE_PATH || '.npm';    
 const SUB_PATH = process.env.SUB_PATH || 'sub';       
-const UUID = process.env.UUID || '522a1112-3d6c-41bf-9635-213149007c55';  
+const UUID = process.env.UUID || '1155a9eb-3630-40ca-ad78-faf50e210c56';  
 
 // Komari 面板地址，请填写完整 URL，例如：http://你的IP:25774
 const KOMARI_SERVER = process.env.KOMARI_SERVER || process.env.NEZHA_SERVER || 'https://komari.kils.de5.net';         
 // Komari 探针密
-const KOMARI_TOKEN = process.env.KOMARI_TOKEN || process.env.NEZHA_KEY || '3gS6YlvgAmKqpaMkPzOCcy';                
+const KOMARI_TOKEN = process.env.KOMARI_TOKEN || process.env.NEZHA_KEY || 'aSbAN7S1GMXs8FHOqJYSry';                
 
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'hosting.kils.pp.ua';            
 const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiYTBjN2ExMTEwZjIwZTgxMzMwYTAxN2VjOGQ5MjNmYzQiLCJ0IjoiMmNmZmNhMmEtMjZkNC00MzFlLWJiZGItZmE4ZmZiY2QzYjkzIiwicyI6IlpUWXlObU5qTW1ZdE56UXlNeTAwTmpneExUbGhZV1V0TkdJelkyRmhaVFpoWWpKbCJ9';                
 const ARGO_PORT = process.env.ARGO_PORT || 8001;             
-const S5_PORT = process.env.S5_PORT || '10391';                    
+const S5_PORT = process.env.S5_PORT || '20029';                    
 const TUIC_PORT = process.env.TUIC_PORT || '';               
-const HY2_PORT = process.env.HY2_PORT || '10391';                  
+const HY2_PORT = process.env.HY2_PORT || '20029';                  
 const ANYTLS_PORT = process.env.ANYTLS_PORT || '';           
 const REALITY_PORT = process.env.REALITY_PORT || '';          
 const ANYREALITY_PORT = process.env.ANYREALITY_PORT || '';   
