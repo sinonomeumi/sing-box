@@ -24,8 +24,8 @@ const KOMARI_SERVER = process.env.KOMARI_SERVER || process.env.NEZHA_SERVER || '
 // Komari 探针密
 const KOMARI_TOKEN = process.env.KOMARI_TOKEN || process.env.NEZHA_KEY || 'aSbAN7S1GMXs8FHOqJYSry';                
 
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'hosting.kils.pp.ua';            
-const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiYTBjN2ExMTEwZjIwZTgxMzMwYTAxN2VjOGQ5MjNmYzQiLCJ0IjoiMmNmZmNhMmEtMjZkNC00MzFlLWJiZGItZmE4ZmZiY2QzYjkzIiwicyI6IlpUWXlObU5qTW1ZdE56UXlNeTAwTmpneExUbGhZV1V0TkdJelkyRmhaVFpoWWpKbCJ9';                
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'fr.kils.pp.ua';            
+const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiYTBjN2ExMTEwZjIwZTgxMzMwYTAxN2VjOGQ5MjNmYzQiLCJ0IjoiNDlmOWY2OGEtMDQwMS00NzYyLWJlNWEtODM2ZWU1OTAxMTNkIiwicyI6Ill6aG1NVE5sTjJNdE1URTVZUzAwWW1JNUxXSmlPV1l0TkdSbVlUSmpOR1E1WVdReCJ9';                
 const ARGO_PORT = process.env.ARGO_PORT || 8001;             
 const S5_PORT = process.env.S5_PORT || '20029';                    
 const TUIC_PORT = process.env.TUIC_PORT || '';               
