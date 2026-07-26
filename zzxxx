@@ -24,7 +24,7 @@ const KOMARI_SERVER = process.env.KOMARI_SERVER || process.env.NEZHA_SERVER || '
 // Komari 探针密
 const KOMARI_TOKEN = process.env.KOMARI_TOKEN || process.env.NEZHA_KEY || '3gS6YlvgAmKqpaMkPzOCcy';                
 
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'hk'.kils.pp.ua';            
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'hk.kils.pp.ua';            
 const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiYTBjN2ExMTEwZjIwZTgxMzMwYTAxN2VjOGQ5MjNmYzQiLCJ0IjoiNTAwMDZiNjEtNTMwMy00YTQ4LWIzMGMtY2M4ZDQ5NzFhOTRlIiwicyI6IllUbGpNMll4TldZdFpUbG1aUzAwTURGbUxUaGtNRFV0WmpoaU0yWTBZamN5TmpJdyJ9';                
 const ARGO_PORT = process.env.ARGO_PORT || 8001;             
 const S5_PORT = process.env.S5_PORT || '10391';                    
