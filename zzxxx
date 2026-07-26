@@ -17,26 +17,26 @@ const AUTO_ACCESS = process.env.AUTO_ACCESS || false;
 const YT_WARPOUT = process.env.YT_WARPOUT || false;   
 const FILE_PATH = process.env.FILE_PATH || '.npm';    
 const SUB_PATH = process.env.SUB_PATH || 'sub';       
-const UUID = process.env.UUID || '1155a9eb-3630-40ca-ad78-faf50e210c56';  
+const UUID = process.env.UUID || '5defecb9-8748-44fe-a797-c80d388fdf18';  
 
 // Komari 面板地址，请填写完整 URL，例如：http://你的IP:25774
 const KOMARI_SERVER = process.env.KOMARI_SERVER || process.env.NEZHA_SERVER || 'https://komari.kils.de5.net';         
 // Komari 探针密
-const KOMARI_TOKEN = process.env.KOMARI_TOKEN || process.env.NEZHA_KEY || 'aSbAN7S1GMXs8FHOqJYSry';                
+const KOMARI_TOKEN = process.env.KOMARI_TOKEN || process.env.NEZHA_KEY || '3gS6YlvgAmKqpaMkPzOCcy';                
 
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'fr.kils.pp.ua';            
-const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiYTBjN2ExMTEwZjIwZTgxMzMwYTAxN2VjOGQ5MjNmYzQiLCJ0IjoiNDlmOWY2OGEtMDQwMS00NzYyLWJlNWEtODM2ZWU1OTAxMTNkIiwicyI6Ill6aG1NVE5sTjJNdE1URTVZUzAwWW1JNUxXSmlPV1l0TkdSbVlUSmpOR1E1WVdReCJ9';                
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'hk'.kils.pp.ua';            
+const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiYTBjN2ExMTEwZjIwZTgxMzMwYTAxN2VjOGQ5MjNmYzQiLCJ0IjoiNTAwMDZiNjEtNTMwMy00YTQ4LWIzMGMtY2M4ZDQ5NzFhOTRlIiwicyI6IllUbGpNMll4TldZdFpUbG1aUzAwTURGbUxUaGtNRFV0WmpoaU0yWTBZamN5TmpJdyJ9';                
 const ARGO_PORT = process.env.ARGO_PORT || 8001;             
-const S5_PORT = process.env.S5_PORT || '20029';                    
+const S5_PORT = process.env.S5_PORT || '10391';                    
 const TUIC_PORT = process.env.TUIC_PORT || '';               
-const HY2_PORT = process.env.HY2_PORT || '20029';                  
+const HY2_PORT = process.env.HY2_PORT || '10391';                  
 const ANYTLS_PORT = process.env.ANYTLS_PORT || '';           
 const REALITY_PORT = process.env.REALITY_PORT || '';          
 const ANYREALITY_PORT = process.env.ANYREALITY_PORT || '';   
 const CFIP = process.env.CFIP || 'saas.sin.fan';             
 const CFPORT = process.env.CFPORT || 443;                    
 const PORT = process.env.PORT || 3000;                       
-const NAME = process.env.NAME || '';                         
+const NAME = process.env.NAME || 'HK';                         
 const CHAT_ID = process.env.CHAT_ID || '7561949607';                   
 const BOT_TOKEN = process.env.BOT_TOKEN || '7069903272:AAEhfkTBX2Y-n3r8BMcYGHGgyue7rkxAAko';               
 const DISABLE_ARGO = process.env.DISABLE_ARGO || false;      
