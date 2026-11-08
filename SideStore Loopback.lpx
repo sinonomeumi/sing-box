@@ -1,0 +1,8 @@
+#!name=SideStore Loopback
+#!desc=用 Loon 替代 LocalDevVPN 做 10.7.0.1 回环（需 Build 1007+）
+[General]
+include-tun = 10.7.0.1/32
+ipv6-vif = off
+
+[IP Rewrite]
+10.7.0.1 = reflect
