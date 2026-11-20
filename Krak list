@@ -1,0 +1,4 @@
+# Krak / Kraken - Loon 远程规则
+# 策略: PROXY 走代理 (海外交易所, 直连不通)
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,krak.app
