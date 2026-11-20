@@ -1,0 +1,3 @@
+# Giffgaff - Loon 远程规则
+# 策略: PROXY 走代理 (英国)
+DOMAIN-SUFFIX,giffgaff.com
