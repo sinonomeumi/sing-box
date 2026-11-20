@@ -1,0 +1,5 @@
+# BIGO LIVE - Loon 远程规则
+# 策略: PROXY 走代理
+DOMAIN-SUFFIX,bigo.tv
+DOMAIN-SUFFIX,bigolive.tv
+DOMAIN-SUFFIX,bigovideo.tv
