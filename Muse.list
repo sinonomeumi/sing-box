@@ -1,0 +1,7 @@
+# Muse - Loon 远程规则
+# 策略: PROXY 走代理 (海外, 仅美国/加拿大可用, 建议走美国节点)
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,metaaiusercontent.com
