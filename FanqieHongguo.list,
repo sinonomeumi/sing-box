@@ -1,0 +1,25 @@
+# 番茄小说 + 红果短剧 - Loon 远程规则
+# 策略: DIRECT 直连
+DOMAIN-SUFFIX,fanqienovel.com
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,fqnovelstatic.com
+DOMAIN-SUFFIX,fqnovelvod.com
+DOMAIN-SUFFIX,fqnovelop.com
+DOMAIN-SUFFIX,fqnovel-op.com
+DOMAIN-SUFFIX,fqnovelim.com
+DOMAIN-SUFFIX,fanqieopen.com
+DOMAIN-SUFFIX,fanqieopenpic.com
+DOMAIN-SUFFIX,fanqieopenstatic.com
+DOMAIN-SUFFIX,fanqieopenvod.com
+DOMAIN-SUFFIX,fanqiesdk.com
+DOMAIN-SUFFIX,fanqiesdkpic.com
+DOMAIN-SUFFIX,fanqiesdkstatic.com
+DOMAIN-SUFFIX,fanqiesdkvod.com
+DOMAIN-SUFFIX,fanqiecopyright.com
+DOMAIN-SUFFIX,changdunovel.com
+DOMAIN-SUFFIX,qznovelpic.com
+DOMAIN-SUFFIX,qznovelstatic.com
+DOMAIN-SUFFIX,qznovelvod.com
+DOMAIN-SUFFIX,activity-zhendingtech.com
+DOMAIN-SUFFIX,hongguoduanju.com
